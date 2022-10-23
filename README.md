@@ -1,2 +1,2 @@
-# kaiyrkhan.github.io
+# https://kaiyrkhan.github.io
 My website on GitHub
